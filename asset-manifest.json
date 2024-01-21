@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-mentor-app/static/css/main.7acaea2f.css",
+    "main.js": "/food-mentor-app/static/js/main.07d3183d.js",
+    "index.html": "/food-mentor-app/index.html",
+    "main.7acaea2f.css.map": "/food-mentor-app/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/food-mentor-app/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
