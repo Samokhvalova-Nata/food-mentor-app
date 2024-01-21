@@ -1,0 +1,12 @@
+export { default as logo } from './logo.png';
+export { default as loseWeight } from './backgrounds/lose-weight.png';
+export { default as gainMuscle } from './backgrounds/gain-muscle.png';
+export { default as healthyHabits } from './backgrounds/develop-healthy-habits.png';
+export { default as healthyHabits2 } from './backgrounds/develop-healthy-habits-2.png';
+export { default as moon } from './icons/moon.svg';
+export { default as donut } from './icons/donut.svg';
+export { default as soda } from './icons/soda.svg';
+export { default as salt } from './icons/salt.svg';
+export { default as pizza } from './icons/pizza.svg';
+export { default as cross } from './icons/cross.svg';
+export { default as activeGirl } from './backgrounds/active-girl.png';
