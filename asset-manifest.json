@@ -1,13 +1,35 @@
 {
   "files": {
-    "main.css": "/food-mentor-app/static/css/main.7acaea2f.css",
-    "main.js": "/food-mentor-app/static/js/main.07d3183d.js",
+    "main.css": "/food-mentor-app/static/css/main.0f7e4024.css",
+    "main.js": "/food-mentor-app/static/js/main.8a3f6194.js",
+    "static/js/485.cae46821.chunk.js": "/food-mentor-app/static/js/485.cae46821.chunk.js",
+    "static/js/461.9b58a751.chunk.js": "/food-mentor-app/static/js/461.9b58a751.chunk.js",
+    "static/js/123.07adfcf1.chunk.js": "/food-mentor-app/static/js/123.07adfcf1.chunk.js",
+    "static/js/907.4ab797a4.chunk.js": "/food-mentor-app/static/js/907.4ab797a4.chunk.js",
+    "static/js/622.29b030d0.chunk.js": "/food-mentor-app/static/js/622.29b030d0.chunk.js",
+    "static/js/270.a4e8e09e.chunk.js": "/food-mentor-app/static/js/270.a4e8e09e.chunk.js",
+    "static/js/221.a5cf53b0.chunk.js": "/food-mentor-app/static/js/221.a5cf53b0.chunk.js",
+    "static/media/donut.svg": "/food-mentor-app/static/media/donut.c8a5969096c214137a51e5312cde0cfa.svg",
+    "static/media/salt.svg": "/food-mentor-app/static/media/salt.5eac10d42d6bfffc18ace4739350102b.svg",
+    "static/media/pizza.svg": "/food-mentor-app/static/media/pizza.09738cee1de2d1dcdb79a914091c3241.svg",
+    "static/media/moon.svg": "/food-mentor-app/static/media/moon.958a7b03c19e2ed6b7c0a60b6ac82732.svg",
+    "static/media/soda.svg": "/food-mentor-app/static/media/soda.aabbdea102cc40df5f8fb6c42b44555b.svg",
+    "static/media/cross.svg": "/food-mentor-app/static/media/cross.6e4333a32e3b275b9b85fb2507cedf7e.svg",
     "index.html": "/food-mentor-app/index.html",
-    "main.7acaea2f.css.map": "/food-mentor-app/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/food-mentor-app/static/js/main.07d3183d.js.map"
+    "static/media/arrow-back.svg": "/food-mentor-app/static/media/arrow-back.3e690f99a0c6f887eada2236b221145c.svg",
+    "static/media/cursor-vector.svg": "/food-mentor-app/static/media/cursor-vector.3885e00401b8e9905c2c.svg",
+    "main.0f7e4024.css.map": "/food-mentor-app/static/css/main.0f7e4024.css.map",
+    "main.8a3f6194.js.map": "/food-mentor-app/static/js/main.8a3f6194.js.map",
+    "485.cae46821.chunk.js.map": "/food-mentor-app/static/js/485.cae46821.chunk.js.map",
+    "461.9b58a751.chunk.js.map": "/food-mentor-app/static/js/461.9b58a751.chunk.js.map",
+    "123.07adfcf1.chunk.js.map": "/food-mentor-app/static/js/123.07adfcf1.chunk.js.map",
+    "907.4ab797a4.chunk.js.map": "/food-mentor-app/static/js/907.4ab797a4.chunk.js.map",
+    "622.29b030d0.chunk.js.map": "/food-mentor-app/static/js/622.29b030d0.chunk.js.map",
+    "270.a4e8e09e.chunk.js.map": "/food-mentor-app/static/js/270.a4e8e09e.chunk.js.map",
+    "221.a5cf53b0.chunk.js.map": "/food-mentor-app/static/js/221.a5cf53b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.0f7e4024.css",
+    "static/js/main.8a3f6194.js"
   ]
 }
